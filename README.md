@@ -1,0 +1,2 @@
+# NaturalLanguageProcessing-zeroDL2
+ゼロから作るディープラーニング2の内容をまとめたもの
